@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Kai Wang"
+title: "Fan Zhang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,57 +8,98 @@ redirect_from:
   - /about.html
 ---
 
-Kai Wang is currently a Postdoc Researcher in the Data and Knowledge Research Group at [The University of New South Wales](https://www.unsw.edu.au/). He got his Ph.D. from The University of New South Wales in 2020 (advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/) and [Prof. Wenjie Zhang](http://www.cse.unsw.edu.au/~zhangw/)) and his bachelor’s degree from Zhejiang University in 2016, both in Computer Science. In 2015, He worked as a research assistant at The Hong Kong Polytechnic University. 
+Welcome! I am currently an associate professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in Aug 2017, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor degree in CS from Zhejiang University in July 2014. 
 
-His research interests lie in big data analytics, especially for the graph/network and spatial data.  Link to [Google Scholar](https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=en).
+My research interests focus on large-scale graph analytics, especially for cohesive subgraph models and hierarchical graph decompositions.
+Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
 
 Publications (* indicates corresponding author)
 ======
-1. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang, **Towards Efficient Solutions of Bitruss Decomposition for Large-scale Bipartite Graphs**, VLDBJ, 2021.
 
-2. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient and Effective Community Search on Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), to appear, 2021.
+*2021*
 
-3. **Kai Wang**, Shuting Wang, Xin Cao, Lu Qin. **Efficient Radius-bounded Community Search in Geo-social Networks**, IEEE Transactions on Knowledge and Data Engineering (TKDE),  2020.
+Zhe Lin, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [PDF](http://vldb.org/pvldb/vol14/p757-zhang.pdf)
 
-4. Maryam Ghafouri, **Kai Wang\***, Fan Zhang, Ying Zhang and Xuemin Lin. **Efficient Graph Hierarchical Decomposition With User Engagement And Tie Strength**, International Conference on Database Systems for Advanced Applications (DASFAA), pages 448-465, 2020.
+Boge Liu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, "Efficient Community Search with Size Constraint", to appear in ICDE 2021 [PDF](https://drive.google.com/file/d/177UWvJUXNOEj7tLyin-eA5229gwKjXEk/view)
 
-5. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Efficient Bitruss Decomposition for Large-scale Bipartite Graphs**, IEEE International Conference on Data Engineering (ICDE), pages 661-672, 2020.
+*2020*
 
-6. **Kai Wang**, Xuemin Lin, Lu Qin, Wenjie Zhang, Ying Zhang. **Vertex Priority Based Butterfly Counting for Large-scale Bipartite Networks**, Proceedings of the International Conference on Very Large Data Bases (VLDB), pages 1139-1152, 2019.
+Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Global Reinforcement of Social Networks: The Anchored Coreness Problem. SIGMOD Conference 2020: 2211-2226 [PDF](https://drive.google.com/file/d/1fwNa8Luc4J7hDwg3wJLkNAN75GtkoWeN/view)
 
-7. **Kai Wang**, Xin Cao, Xuemin Lin, Wenjie Zhang, Lu Qin. **Efficient Computing of Radius-bounded k-cores**, IEEE International Conference on Data Engineering (ICDE), pages 233-244, 2018.
+Deming Chu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, Yinglong Xia, Chenyi Zhang: Finding the Best k in Core Decomposition: A Time and Space Optimal Solution. ICDE 2020: 685-696 [PDF](https://drive.google.com/file/d/1nOgBso7BR2Zfm_G9azJh9at_CaJV2hk0/view)
 
-8. Bo Tang, Man Lung Yiu, Kyriakos Mouratidis, **Kai Wang**. **Efficient Motif Discovery in Spatial Trajectories using Discrete Fréchet Distance**, International Conference on Extending Database Technology (EDBT), pages 378-389, 2017.
+Chen Zhang, **Fan Zhang\***, Wenjie Zhang, Boge Liu, Ying Zhang, Lu Qin, Xuemin Lin: Exploring Finer Granularity within the Cores: Efficient (k, p)-Core Computation. ICDE 2020: 181-192 [PDF](https://drive.google.com/file/d/1pQZE7cHhO-n-plWAR25Op5nwtBolaaO2/view)
 
-9. Lu Chen, Yunjun Gao, **Kai Wang**, Christian S Jensen, Gang Chen. **Answering Why-not Questions on Metric Probabilistic Range Queries**, IEEE International Conference on Data Engineering (ICDE), pages 767-778, 2016.
+**Fan Zhang\***, Conggai Li, Ying Zhang, Lu Qin, Wenjie Zhang: Finding Critical Users in Social Communities: The Collapsed Core and Truss Problems. IEEE Trans. Knowl. Data Eng. 32(1): 78-91 (2020)
 
-Talks
+Maryam Ghafouri, Kai Wang, **Fan Zhang**, Ying Zhang, Xuemin Lin: Efficient Graph Hierarchical Decomposition with User Engagement and Tie Strength. DASFAA (2) 2020: 448-465 
+
+*2019*
+
+Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Efficient Progressive Minimum k-core Search. Proc. VLDB Endow. 13(3): 362-375 (2019) [PDF](https://drive.google.com/file/d/1-jZZNwKndw5AS3BIDnhN-dqCd2fBtHry/view)
+
+**Fan Zhang\***, Xuemin Lin, Ying Zhang, Lu Qin, Wenjie Zhang: Efficient community discovery with user engagement and similarity. VLDB J. 28(6): 987-1012 (2019) [PDF](https://drive.google.com/file/d/1yA10kA9a6MCj9meaBS2v9Hanh_HjDRM8/view)
+
+Zhongxin Zhou, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Chen Chen: K-Core Maximization: An Edge Addition Approach. IJCAI 2019: 4867-4873 [PDF](https://drive.google.com/file/d/10Z73GyLEdoUDWFHdWY00LMhfwLtDnGVn/view)
+
+Weijie Zhu, Mengqi Zhang, Chen Chen, Xiaoyang Wang, **Fan Zhang**, Xuemin Lin: Pivotal Relationship Identification: The K-Truss Minimization Problem. IJCAI 2019: 4874-4880
+
+Boge Liu, **Fan Zhang**, Chen Zhang, Wenjie Zhang, Xuemin Lin: CoreCube: Core Decomposition in Multilayer Graphs. WISE 2019: 694-710
+
+Chen Zhang, Wenjie Zhang, Ying Zhang, Lu Qin, **Fan Zhang**, Xuemin Lin: Selecting the Optimal Groups: Efficiently Computing Skyline k-Cliques. CIKM 2019: 1211-1220
+
+Deming Chu, **Fan Zhang\***, Jingjing Lin, “Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition“, CCF Big Data 2019 [PDF](https://drive.google.com/file/d/1aegTVmxTcGCezZ1Cg3D0bjxbh_0w5VNV/view?usp=sharing)
+
+Wanqi Liu, Dong Wen, Hanchen Wang, **Fan Zhang**, Xubo Wang，“Skyline Nearest Neighbor Search on Multi-layer Graphs“, ICDE Workshops 2019
+
+*2018*
+
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Efficiently Reinforcing Social Networks over User Engagement and Tie Strength. ICDE 2018: 557-568 [PDF](https://drive.google.com/file/d/1uSYySw-0Y64N-Mv-9d46YQtxnFxkY5TQ/view)
+
+**Fan Zhang**, Long Yuan, Ying Zhang, Lu Qin, Xuemin Lin, Alexander Zhou: Discovering Strong Communities with User Engagement and Tie Strength. DASFAA (1) 2018: 425-441 [PDF](https://drive.google.com/file/d/1HH3A0WPKFhM3MirE2hMaXwKdblIEiBRK/view)
+
+Zhu Qing, Long Yuan, **Fan Zhang**, Lu Qin, Xuemin Lin, Wenjie Zhang: External Topological Sorting in Large Graphs. DASFAA (1) 2018: 203-220
+
+Dian Ouyang, Long Yuan, **Fan Zhang**, Lu Qin, Xuemin Lin: Towards Efficient Path Skyline Computation in Bicriteria Networks. DASFAA (1) 2018: 239-254
+
+Alexander Zhou, **Fan Zhang**, Long Yuan, Ying Zhang, Xuemin Lin: Finding Maximal Stable Cores in Social Networks. ADC 2018: 224-235
+
+*2017*
+
+**Fan Zhang**, Wenjie Zhang, Ying Zhang, Lu Qin, Xuemin Lin: OLAK: An Efficient Algorithm to Prevent Unraveling in Social Networks. Proc. VLDB Endow. 10(6): 649-660 (2017) [PDF](https://drive.google.com/file/d/1m3XJ8Slr1Klrwxwo3ACBnkdTG2MFQMgO/view)
+
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: When Engagement Meets Similarity: Efficient (k, r)-Core Computation on Social Networks. Proc. VLDB Endow. 10(10): 998-1009 (2017) [PDF](https://drive.google.com/file/d/1TDzqTF0PppPJW09TkhWz90esHJzBhMTG/view)
+
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem. AAAI 2017: 245-251 [PDF](https://drive.google.com/file/d/1nUC1TPHRVAmw-Ip8aGvBRyNb0otTK2ZP/view)
+
+
+Tutorials
 ======
-1. **Cohesive Structure based Bipartite Graph Analysis: From Motif Level to Subgraph Level** (Tutorial). International Conference on Database Systems for Advanced Applications (DASFAA), 2020.
+
+Ying Zhang, Lu Qin, **Fan Zhang**, Wenjie Zhang: Hierarchical Decomposition of Big Graphs. ICDE 2019: 2064-2067
+
+Wenjie Zhang, **Fan Zhang**, Ying Zhang, Lu Qin: Cohesive Subgraphs with Hierarchical Decomposition on Big Graphs. DASFAA 2019
+
 
 Academia Services
 ======
-- (External) Journal Reviewer
-  - TKDE, TKDD, WWWJ.
 
-- (External) Conference Reviewer
-  - SIGMOD, VLDB, ICDE, KDD, WSDM, CIKM, DASFAA, etc.
+- Journal Reviewer
+  - TKDE, WWWJ, Complexity, etc.
 
-- Organizing Committee
-  - Publicity Chair of [LSGDA 2020](https://www.google.com/url?q=https%3A%2F%2Flsgda.github.io%2F2020%2F&sa=D&sntz=1&usg=AFQjCNFYfkgg9wBrWW8wUaG8GCGXJz3z_A).
+- Program Committee Member
+  - VLDB, ICDE, CIKM, DASFAA, PAKDD, etc.
 
-- Program Committee
-  - SpatialDI 2021.
+- External Reviewer
+  - SIGMOD, KDD, EDBT, SIGSPATIAL, etc.
 
 Teaching
 ======
+- Sole Lecturer
+  - Guidance of Research Paper Writing (Guangzhou) - 2020.
+
 - Lecturer
-  - Graph Analytics  (COMP9312) -  2021 T2.
+  - Big Data Technologies (Guangzhou) - 2019, 2020.
 
-- TA, * indicates Head TA
-  - Big Data Management  (COMP9313) -  2017 S2, 2018 S2.
-
-  - Database Systems (COMP9311) -  2017 S1, 2018 S1*, 2019 T1*, 2019 T3*.
-
-  - Data Science and Decisions (DATA1001) -  2017 S2, 2018 S2*, 2019 T2*.
-
+- Head TA
+  - Social and Information Network Analysis - 2017, 2018.
