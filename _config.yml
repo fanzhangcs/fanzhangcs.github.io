@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kai Wang"
+title                    : "Fan Zhang"
 title_separator          : "-"
-name                     : &name "Kai Wang"
+name                     : &name "Fan Zhang"
 description              : &description "personal description"
-url                      : https://cs-kaiwang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://fanzhangcs.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "cs-kaiwang/cs-kaiwang.github.io"
+repository               : "fanzhangcs/fanzhangcs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kai Wang"
+  name             : "Fan Zhang"
   avatar           : "profile.png"
-  bio              : "Postdoc at School of Computer Science and Engineering, The University of New South Wales"
-  location         : "UNSW"
+  bio              : "Cyberspace Institute of Advanced Technology, Guangzhou University"
+  location         : "China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=G4DiwTIAAAAJ&hl=zh-CN"
-  email            : "kai.wang@unsw.edu.au"
-  researchgate     :  "https://www.researchgate.net/scientific-contributions/Kai-Wang-2148811051"
+  googlescholar    : "https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN"
+  email            : "fanzhang.cs@gmail.com"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "changyibeihai"
+  github           : "fanzhangcs"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/kai-wang-bbb273155/"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
