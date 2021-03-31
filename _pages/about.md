@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Fan Zhang"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -102,4 +102,4 @@ Teaching
   - Big Data Technologies (Guangzhou) - 2019, 2020.
 
 - Head TA
-  - Social and Information Network Analysis - 2017, 2018.
+  - Social and Information Network Analysis (Sydney) - 2017, 2018.
