@@ -3,14 +3,14 @@ main:
   - title: "Publications"
     url: /#publications
 
-  - title: "Talks"
-    url: /#talks 
-
+  - title: "Tutorials"
+    url: /#tutorials 
+  
+  - title: "Services"
+    url: /#services
+    
   - title: "Teaching"
     url: /#teaching  
-  
-  - title: "Academia Services"
-    url: /#academia-services
     
   # - title: "Portfolio"
   #   url: /portfolio/
