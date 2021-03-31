@@ -81,7 +81,7 @@ Ying Zhang, Lu Qin, **Fan Zhang**, Wenjie Zhang: Hierarchical Decomposition of B
 Wenjie Zhang, **Fan Zhang**, Ying Zhang, Lu Qin: Cohesive Subgraphs with Hierarchical Decomposition on Big Graphs. DASFAA 2019
 
 
-Academia Services
+Services
 ======
 
 - Journal Reviewer
