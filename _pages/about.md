@@ -18,6 +18,8 @@ Publications (* indicates corresponding author)
 
 *2021*
 
+Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. Accepted by VLDB J. (2021)
+
 Zhe Lin, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [PDF](http://vldb.org/pvldb/vol14/p757-zhang.pdf)
 
 Boge Liu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, "Efficient Community Search with Size Constraint", to appear in ICDE 2021 [PDF](https://drive.google.com/file/d/177UWvJUXNOEj7tLyin-eA5229gwKjXEk/view)
