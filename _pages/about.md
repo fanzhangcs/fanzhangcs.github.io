@@ -102,10 +102,10 @@ Services
 Teaching
 ======
 - Sole Lecturer
-  - Guidance of Research Paper Writing (Guangzhou) - 2020.
+  - Guidance of Research Paper Writing (Guangzhou) - 2020, 2021.
 
 - Lecturer
-  - Big Data Technologies (Guangzhou) - 2019, 2020.
+  - Big Data Technologies (Guangzhou) - 2019, 2020, 2021.
 
 - Head TA
   - Social and Information Network Analysis (Sydney) - 2017, 2018.
