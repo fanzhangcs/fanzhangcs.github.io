@@ -18,6 +18,10 @@ Publications (* indicates corresponding author)
 
 *2021*
 
+Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Accepted by KAIS (2021)
+  
+Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian*: Adaptive Asynchronous Clustering Algorithm for Power-constrained Wireless Mesh Networks. Accepted by IEEE Trans. Knowl. Data Eng. (2021)
+
 Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. Accepted by VLDB J. (2021)
 
 **Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang\*: Discovering Key Users for Defending Network Structural Stability. Accepted by World Wide Web (2021)
