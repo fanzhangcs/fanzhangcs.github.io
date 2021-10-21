@@ -60,7 +60,7 @@ Chen Zhang, Wenjie Zhang, Ying Zhang, Lu Qin, **Fan Zhang**, Xuemin Lin: Selecti
 
 Deming Chu, **Fan Zhang\***, Jingjing Lin, “Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition“, CCF Big Data 2019 [PDF](https://drive.google.com/file/d/1aegTVmxTcGCezZ1Cg3D0bjxbh_0w5VNV/view?usp=sharing)
 
-Wanqi Liu, Dong Wen, Hanchen Wang, **Fan Zhang**, Xubo Wang，“Skyline Nearest Neighbor Search on Multi-layer Graphs“, ICDE Workshops 2019
+Wanqi Liu, Dong Wen, Hanchen Wang, **Fan Zhang**, Xubo Wang: Skyline Nearest Neighbor Search on Multi-layer Graphs, ICDE Workshops 2019
 
 *2018*
 
@@ -98,7 +98,7 @@ Services
   - TKDE, WWWJ, Complexity, etc.
 
 - Program Committee Member
-  - VLDB, ICDE, CIKM, DASFAA, PAKDD, etc.
+  - VLDB, ICDE, WWW, AAAI, CIKM, DASFAA, PAKDD, etc.
 
 - External Reviewer
   - SIGMOD, KDD, EDBT, SIGSPATIAL, etc.
