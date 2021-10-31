@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am currently a professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in Aug 2017, advised by [Prof. Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang) and [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin). I received my Bachelor degree in CS from Zhejiang University in July 2014. 
 
-My research interests focus on large-scale graph analytics, especially for cohesive subgraph models and hierarchical graph decompositions.
+My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, and network stability.
 Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
 
 Publications (* indicates corresponding author)
