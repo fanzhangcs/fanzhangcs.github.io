@@ -16,6 +16,10 @@ Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Schola
 Publications (* indicates corresponding author)
 ======
 
+*2022*
+
+Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. Accepted by ICDE 2022.
+
 *2021*
 
 Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Accepted by KAIS (2021)
