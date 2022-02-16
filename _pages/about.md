@@ -102,10 +102,10 @@ Services
   - TKDE, WWWJ, Complexity, etc.
 
 - Program Committee Member
-  - VLDB, ICDE, WWW, AAAI, CIKM, DASFAA, PAKDD, etc.
+  - VLDB, KDD, ICDE, WWW, AAAI, CIKM, DASFAA, PAKDD, etc.
 
 - External Reviewer
-  - SIGMOD, KDD, EDBT, SIGSPATIAL, etc.
+  - SIGMOD, EDBT, SIGSPATIAL, etc.
 
 Teaching
 ======
