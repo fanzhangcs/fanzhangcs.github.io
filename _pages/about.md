@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in Aug 2017, advised by [Prof. Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang) and [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin). I received my Bachelor degree in CS from Zhejiang University in July 2014. 
+Welcome! I am currently a Professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in Aug 2017, advised by [Prof. Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang) and [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin). I received my Bachelor degree in CS from Zhejiang University in July 2014. 
 
 My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, and network stability.
 Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
@@ -110,7 +110,8 @@ Services
 Teaching
 ======
 - Sole Lecturer
-  - Guidance of Research Paper Writing (Guangzhou) - 2020, 2021.
+  - Large-scale Graph Computation and Mining (Guangzhou) - 2022.   
+  - Guidance of Research Paper Writing (Guangzhou) - 2020, 2021, 2022.
 
 - Lecturer
   - Big Data Technologies (Guangzhou) - 2019, 2020, 2021.
