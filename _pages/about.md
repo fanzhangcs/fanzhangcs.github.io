@@ -16,25 +16,31 @@ Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Schola
 Publications (* indicates corresponding author)
 ======
 
+*2023*
+
+Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023.
+
+Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023.
+
 *2022*
 
-Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. Accepted by ICDE 2022.
+Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. VLDB J. (2021)
+
+Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. ICDE 2022.
+
+**Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang\*: Discovering Key Users for Defending Network Structural Stability. World Wide Web (2021)
+
+Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu: VCEK: A Vertex-Centric Approach for Edge k-Core Problem. World Wide Web (2021)
 
 *2021*
 
-Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Accepted by KAIS (2021)
+Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. KAIS (2021)
   
-Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian*: Adaptive Asynchronous Clustering Algorithm for Power-constrained Wireless Mesh Networks. Accepted by IEEE Trans. Knowl. Data Eng. (2021)
-
-Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. Accepted by VLDB J. (2021)
-
-**Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang\*: Discovering Key Users for Defending Network Structural Stability. Accepted by World Wide Web (2021)
-
-Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu: VCEK: A Vertex-Centric Approach for Edge k-Core Problem. Accepted by World Wide Web (2021)
+Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian*: Adaptive Asynchronous Clustering Algorithm for Power-constrained Wireless Mesh Networks. IEEE Trans. Knowl. Data Eng. (2021)
 
 Zhe Lin, **Fan Zhang**, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [PDF](http://vldb.org/pvldb/vol14/p757-zhang.pdf)
 
-Boge Liu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, "Efficient Community Search with Size Constraint", to appear in ICDE 2021 [PDF](https://drive.google.com/file/d/177UWvJUXNOEj7tLyin-eA5229gwKjXEk/view)
+Boge Liu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Efficient Community Search with Size Constraint. ICDE 2021 [PDF](https://drive.google.com/file/d/177UWvJUXNOEj7tLyin-eA5229gwKjXEk/view)
 
 *2020*
 
