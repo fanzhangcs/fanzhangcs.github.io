@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Fan Zhang's Homepage"
 title_separator          : "-"
-name                     : &name "Fan Zhang"
+name                     : &name "Fan Zhang (张帆)"
 description              : &description "personal description"
 url                      : https://fanzhangcs.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fan Zhang"
+  name             : "Fan Zhang (张帆)"
   avatar           : "profile.png"
   bio              : "Professor at Cyberspace Institute of Advanced Technology, Guangzhou University"
   location         : "China"
