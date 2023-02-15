@@ -20,6 +20,10 @@ Publications (* indicates corresponding author)
 
 Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023.
 
+Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023.
+
+Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowledge-Based Systems (2023).
+
 Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023.
 
 *2022*
@@ -68,7 +72,7 @@ Boge Liu, **Fan Zhang**, Chen Zhang, Wenjie Zhang, Xuemin Lin: CoreCube: Core De
 
 Chen Zhang, Wenjie Zhang, Ying Zhang, Lu Qin, **Fan Zhang**, Xuemin Lin: Selecting the Optimal Groups: Efficiently Computing Skyline k-Cliques. CIKM 2019: 1211-1220
 
-Deming Chu, **Fan Zhang\***, Jingjing Lin, “Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition“, CCF Big Data 2019 [PDF](https://drive.google.com/file/d/1aegTVmxTcGCezZ1Cg3D0bjxbh_0w5VNV/view?usp=sharing)
+Deming Chu, **Fan Zhang\***, Jingjing Lin: Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition, CCF Big Data 2019 [PDF](https://drive.google.com/file/d/1aegTVmxTcGCezZ1Cg3D0bjxbh_0w5VNV/view?usp=sharing)
 
 Wanqi Liu, Dong Wen, Hanchen Wang, **Fan Zhang**, Xubo Wang: Skyline Nearest Neighbor Search on Multi-layer Graphs, ICDE Workshops 2019
 
