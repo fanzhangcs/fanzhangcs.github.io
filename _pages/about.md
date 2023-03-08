@@ -120,12 +120,13 @@ Services
 Teaching
 ======
 - Sole Lecturer
-  - Large-scale Graph Computation and Mining (Guangzhou) - 2022.   
-  - Guidance of Research Paper Writing (Guangzhou) - 2020, 2021, 2022.
+  - Discrete Mathematics - 2023.      
+  - Large-scale Graph Computation and Mining - 2022.   
+  - Guidance of Research Paper Writing - 2020, 2021, 2022.
 
 - Lecturer
-  - Big Data Technologies (Guangzhou) - 2019, 2020, 2021.
+  - Big Data Technologies - 2019, 2020, 2021.
 
 - Head TA
-  - Social and Information Network Analysis (Sydney) - 2017, 2018.
+  - Social and Information Network Analysis (UTS) - 2017, 2018.
 
