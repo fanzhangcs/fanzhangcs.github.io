@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in Aug 2017, advised by [Prof. Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang) and [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin). I received my Bachelor degree in CS from Zhejiang University in July 2014. 
+Welcome! I am currently a Professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in 2018, advised by [Prof. Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang) and [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin). I received my Bachelor degree in CS from Zhejiang University in 2014. 
 
-My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, and network stability.
+My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, network stability and influence spread.
 Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
 
 Publications (* indicates corresponding author)
@@ -32,7 +32,7 @@ Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored
 
 Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. ICDE 2022: 1138-1151
 
-**Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang\*: Discovering Key Users for Defending Network Structural Stability. World Wide Web 25(2): 679-701 (2022)
+**Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang: Discovering Key Users for Defending Network Structural Stability. World Wide Web 25(2): 679-701 (2022)
 
 Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu: VCEK: A Vertex-Centric Approach for Edge k-Core Problem. World Wide Web 25(2): 723-740 (2022)
 
@@ -40,7 +40,7 @@ Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu: VCEK: A Vertex-Centri
 
 Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Knowl. Inf. Syst. 63(12): 3217-3250 (2021)
   
-Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian*: Adaptive Asynchronous Clustering Algorithm for Power-constrained Wireless Mesh Networks. IEEE Trans. Knowl. Data Eng. (2021)
+Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian: Adaptive Asynchronous Clustering Algorithm for Power-constrained Wireless Mesh Networks. IEEE Trans. Knowl. Data Eng. (2021)
 
 Zhe Lin, **Fan Zhang**, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [PDF](http://vldb.org/pvldb/vol14/p757-zhang.pdf)
 
@@ -100,6 +100,10 @@ Alexander Zhou, **Fan Zhang**, Long Yuan, Ying Zhang, Xuemin Lin: Finding Maxima
 Tutorials
 ======
 
+**Fan Zhang**, Kai Wang. Cohesive Subgraph Search: Models, Algorithms, and Applications. APWeb-WAIM 2022.
+
+**Fan Zhang**. The Progress of Network Structural Stability. WISA 2022.
+
 Ying Zhang, Lu Qin, **Fan Zhang**, Wenjie Zhang: Hierarchical Decomposition of Big Graphs. ICDE 2019: 2064-2067
 
 Wenjie Zhang, **Fan Zhang**, Ying Zhang, Lu Qin: Cohesive Subgraphs with Hierarchical Decomposition on Big Graphs. DASFAA 2019
@@ -112,7 +116,7 @@ Services
   - TKDE, WWWJ, Complexity, etc.
 
 - Program Committee Member
-  - VLDB, KDD, ICDE, WWW, AAAI, CIKM, DASFAA, PAKDD, etc.
+  - VLDB, KDD, ICDE, WebConf, AAAI, CIKM, DASFAA, PAKDD, etc.
 
 - External Reviewer
   - SIGMOD, EDBT, SIGSPATIAL, etc.
@@ -122,10 +126,10 @@ Teaching
 - Sole Lecturer
   - Discrete Mathematics - 2023.      
   - Large-scale Graph Computation and Mining - 2022.   
-  - Guidance of Research Paper Writing - 2020, 2021, 2022.
+  - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023.
 
 - Lecturer
-  - Big Data Technologies - 2019, 2020, 2021.
+  - Big Data Technologies - 2019, 2020, 2021, 2023.
 
 - Head TA
   - Social and Information Network Analysis (UTS) - 2017, 2018.
