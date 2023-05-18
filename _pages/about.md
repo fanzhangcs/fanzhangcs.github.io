@@ -18,6 +18,10 @@ Publications (* indicates corresponding author)
 
 *2023*
 
+**Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. Accepted by KDD 2023.
+
+**Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng.
+
 Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023.
 
 Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023.
