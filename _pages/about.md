@@ -22,17 +22,17 @@ Publications (* indicates corresponding author)
 
 **Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng. [[paper](/papers/2023_TKDE_sctruss.pdf), [code](https://github.com/codecreateworld321/STCS)]
 
-Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023.
+Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023. [[paper](/papers/2023_icde_infmin.pdf)]
 
-Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023.
+Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023. [[paper](/papers/2023_icde_unod.pdf), [code](https://github.com/goldennormal/vgod-github)]
 
 Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowledge-Based Systems (2023).
 
-Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023.
+Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023. [[paper](/papers/2023_icde_simplepath.pdf)]
 
 *2022*
 
-Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. VLDB J. 31(2): 227-252 (2022)
+Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. VLDB J. 31(2): 227-252 (2022) 
 
 Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. ICDE 2022: 1138-1151
 
