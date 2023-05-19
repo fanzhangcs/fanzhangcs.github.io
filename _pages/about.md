@@ -76,7 +76,7 @@ Boge Liu, **Fan Zhang**, Chen Zhang, Wenjie Zhang, Xuemin Lin: CoreCube: Core De
 
 Chen Zhang, Wenjie Zhang, Ying Zhang, Lu Qin, **Fan Zhang**, Xuemin Lin: Selecting the Optimal Groups: Efficiently Computing Skyline k-Cliques. CIKM 2019: 1211-1220
 
-Deming Chu, **Fan Zhang\***, Jingjing Lin: Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition, CCF Big Data 2019 [[paper](https://drive.google.com/file/d/1aegTVmxTcGCezZ1Cg3D0bjxbh_0w5VNV/view?usp=sharing)]
+Deming Chu, **Fan Zhang\***, Jingjing Lin: Similarity Evaluation on Labeled Graphs via Hierarchical Core Decomposition, CCF Big Data 2019
 
 Wanqi Liu, Dong Wen, Hanchen Wang, **Fan Zhang**, Xubo Wang: Skyline Nearest Neighbor Search on Multi-layer Graphs, ICDE Workshops 2019
 
