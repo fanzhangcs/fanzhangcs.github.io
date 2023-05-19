@@ -20,7 +20,7 @@ Publications (* indicates corresponding author)
 
 **Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. Accepted by KDD 2023. [[paper](/papers/2023_KDD_nodeimportance_versiontoupdate.pdf), [code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability)].
 
-**Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng. [[paper](/papers/2023_TKDE_sctruss.pdf), [code](https://github.com/codecreateworld321)].
+**Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng. [[paper](/papers/2023_TKDE_sctruss.pdf), [code](https://github.com/codecreateworld321/STCS)].
 
 Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023.
 
