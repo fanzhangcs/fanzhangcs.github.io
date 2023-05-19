@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Professor in [Guangzhou University](http://wyy.gzhu.edu.cn/). I was a research associate in the database group at the University of New South Wales, advised by [Scientia Prof. Xuemin Lin](http://www.cse.unsw.edu.au/~lxue/). I got my PhD from the center for AI at University of Technology Sydney in 2018, advised by [Prof. Ying Zhang](https://profiles.uts.edu.au/Ying.Zhang) and [Prof. Lu Qin](https://profiles.uts.edu.au/Lu.Qin). I received my Bachelor degree in CS from Zhejiang University in 2014. 
+Welcome! I am currently a Professor in Guangzhou University. I was a research associate in the database group at the University of New South Wales, advised by Prof. Xuemin Lin. I got my PhD from the center for AI at University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor degree in CS from Zhejiang University in 2014. 
 
 My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, network stability and influence spread.
 Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
@@ -20,7 +20,7 @@ Publications (* indicates corresponding author)
 
 **Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. Accepted by KDD 2023.
 
-**Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng.
+**Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng. [paper](papers/2023_TKDE_sctruss.pdf) and [code](https://github.com/codecreateworld321).
 
 Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023.
 
