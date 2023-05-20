@@ -32,9 +32,9 @@ Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Ho
 
 **2022**
 
-Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. VLDB J. 31(2): 227-252 (2022) 
+Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. VLDB J. 31(2): 227-252 (2022) [[paper](/papers/2021_vldbj_acoreness.pdf)]
 
-Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. ICDE 2022: 1138-1151
+Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical Core Decomposition in Parallel: From Construction to Subgraph Search. ICDE 2022: 1138-1151 [[paper](/papers/2022_icde_hcdp.pdf)]
 
 **Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang: Discovering Key Users for Defending Network Structural Stability. World Wide Web 25(2): 679-701 (2022)
 
@@ -42,33 +42,33 @@ Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu: VCEK: A Vertex-Centri
 
 **2021**
 
-Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Knowl. Inf. Syst. 63(12): 3217-3250 (2021)
+Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Knowl. Inf. Syst. 63(12): 3217-3250 (2021) [[paper](/papers/2021_kais_pc.pdf)]
 
 Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian: Adaptive Asynchronous Clustering Algorithm for Power-constrained Wireless Mesh Networks. IEEE Trans. Knowl. Data Eng. (2021)
 
-Zhe Lin, **Fan Zhang**, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [[paper](http://vldb.org/pvldb/vol14/p757-zhang.pdf)]
+Zhe Lin, **Fan Zhang**, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [[paper](/papers/2021_vldb_coremaintain.pdf)]
 
-Boge Liu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Efficient Community Search with Size Constraint. ICDE 2021: 97-108 [[paper](https://drive.google.com/file/d/177UWvJUXNOEj7tLyin-eA5229gwKjXEk/view)]
+Boge Liu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Efficient Community Search with Size Constraint. ICDE 2021: 97-108 [[paper](/papers/2021_icde_ktsearch.pdf)]
 
 **2020**
 
-Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Global Reinforcement of Social Networks: The Anchored Coreness Problem. SIGMOD Conference 2020: 2211-2226 [[paper](https://drive.google.com/file/d/1fwNa8Luc4J7hDwg3wJLkNAN75GtkoWeN/view)]
+Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Global Reinforcement of Social Networks: The Anchored Coreness Problem. SIGMOD Conference 2020: 2211-2226 [[paper](/papers/2020_sigmod_acoreness.pdf)]
 
-Deming Chu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, Yinglong Xia, Chenyi Zhang: Finding the Best k in Core Decomposition: A Time and Space Optimal Solution. ICDE 2020: 685-696 [[paper](https://drive.google.com/file/d/1nOgBso7BR2Zfm_G9azJh9at_CaJV2hk0/view)]
+Deming Chu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang, Yinglong Xia, Chenyi Zhang: Finding the Best k in Core Decomposition: A Time and Space Optimal Solution. ICDE 2020: 685-696 [[paper](/papers/2020_icde_bestk.pdf)]
 
-Chen Zhang, **Fan Zhang\***, Wenjie Zhang, Boge Liu, Ying Zhang, Lu Qin, Xuemin Lin: Exploring Finer Granularity within the Cores: Efficient (k, p)-Core Computation. ICDE 2020: 181-192 [[paper](https://drive.google.com/file/d/1pQZE7cHhO-n-plWAR25Op5nwtBolaaO2/view)]
+Chen Zhang, **Fan Zhang\***, Wenjie Zhang, Boge Liu, Ying Zhang, Lu Qin, Xuemin Lin: Exploring Finer Granularity within the Cores: Efficient (k, p)-Core Computation. ICDE 2020: 181-192 [[paper](/papers/2020_icde_kpcore.pdf)]
 
-**Fan Zhang\***, Conggai Li, Ying Zhang, Lu Qin, Wenjie Zhang: Finding Critical Users in Social Communities: The Collapsed Core and Truss Problems. IEEE Trans. Knowl. Data Eng. 32(1): 78-91 (2020)
+**Fan Zhang\***, Conggai Li, Ying Zhang, Lu Qin, Wenjie Zhang: Finding Critical Users in Social Communities: The Collapsed Core and Truss Problems. IEEE Trans. Knowl. Data Eng. 32(1): 78-91 (2020) [[paper](/papers/2020_tkde_ckt.pdf)]
 
 Maryam Ghafouri, Kai Wang, **Fan Zhang**, Ying Zhang, Xuemin Lin: Efficient Graph Hierarchical Decomposition with User Engagement and Tie Strength. DASFAA (2) 2020: 448-465 
 
 **2019**
 
-Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Efficient Progressive Minimum k-core Search. Proc. VLDB Endow. 13(3): 362-375 (2019) [[paper](https://drive.google.com/file/d/1-jZZNwKndw5AS3BIDnhN-dqCd2fBtHry/view)]
+Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Efficient Progressive Minimum k-core Search. Proc. VLDB Endow. 13(3): 362-375 (2019) [[paper](/papers/2019_vldb_minkc.pdf)]
 
-**Fan Zhang\***, Xuemin Lin, Ying Zhang, Lu Qin, Wenjie Zhang: Efficient community discovery with user engagement and similarity. VLDB J. 28(6): 987-1012 (2019) [[paper](https://drive.google.com/file/d/1yA10kA9a6MCj9meaBS2v9Hanh_HjDRM8/view)]
+**Fan Zhang\***, Xuemin Lin, Ying Zhang, Lu Qin, Wenjie Zhang: Efficient community discovery with user engagement and similarity. VLDB J. 28(6): 987-1012 (2019) [[paper](/papers/2019_vldbj_krcore.pdf)]
 
-Zhongxin Zhou, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Chen Chen: K-Core Maximization: An Edge Addition Approach. IJCAI 2019: 4867-4873 [[paper](https://drive.google.com/file/d/10Z73GyLEdoUDWFHdWY00LMhfwLtDnGVn/view)]
+Zhongxin Zhou, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Chen Chen: K-Core Maximization: An Edge Addition Approach. IJCAI 2019: 4867-4873 [[paper](/papers/2019_ijcai_edgekc.pdf)]
 
 Weijie Zhu, Mengqi Zhang, Chen Chen, Xiaoyang Wang, **Fan Zhang**, Xuemin Lin: Pivotal Relationship Identification: The K-Truss Minimization Problem. IJCAI 2019: 4874-4880
 
@@ -82,9 +82,9 @@ Wanqi Liu, Dong Wen, Hanchen Wang, **Fan Zhang**, Xubo Wang: Skyline Nearest Nei
 
 **2018**
 
-**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Efficiently Reinforcing Social Networks over User Engagement and Tie Strength. ICDE 2018: 557-568 [[paper](https://drive.google.com/file/d/1uSYySw-0Y64N-Mv-9d46YQtxnFxkY5TQ/view)]
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Efficiently Reinforcing Social Networks over User Engagement and Tie Strength. ICDE 2018: 557-568 [[paper](/papers/2018_icde_akt.pdf)]
 
-**Fan Zhang**, Long Yuan, Ying Zhang, Lu Qin, Xuemin Lin, Alexander Zhou: Discovering Strong Communities with User Engagement and Tie Strength. DASFAA (1) 2018: 425-441 [[paper](https://drive.google.com/file/d/1HH3A0WPKFhM3MirE2hMaXwKdblIEiBRK/view)]
+**Fan Zhang**, Long Yuan, Ying Zhang, Lu Qin, Xuemin Lin, Alexander Zhou: Discovering Strong Communities with User Engagement and Tie Strength. DASFAA (1) 2018: 425-441 [[paper](/papers/2018_dasfaa_kscore.pdf)]
 
 Zhu Qing, Long Yuan, **Fan Zhang**, Lu Qin, Xuemin Lin, Wenjie Zhang: External Topological Sorting in Large Graphs. DASFAA (1) 2018: 203-220
 
@@ -94,11 +94,11 @@ Alexander Zhou, **Fan Zhang**, Long Yuan, Ying Zhang, Xuemin Lin: Finding Maxima
 
 **2017**
 
-**Fan Zhang**, Wenjie Zhang, Ying Zhang, Lu Qin, Xuemin Lin: OLAK: An Efficient Algorithm to Prevent Unraveling in Social Networks. Proc. VLDB Endow. 10(6): 649-660 (2017) [[paper](https://drive.google.com/file/d/1m3XJ8Slr1Klrwxwo3ACBnkdTG2MFQMgO/view)]
+**Fan Zhang**, Wenjie Zhang, Ying Zhang, Lu Qin, Xuemin Lin: OLAK: An Efficient Algorithm to Prevent Unraveling in Social Networks. Proc. VLDB Endow. 10(6): 649-660 (2017) [[paper](/papers/2017_vldb_olak.pdf)]
 
-**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: When Engagement Meets Similarity: Efficient (k, r)-Core Computation on Social Networks. Proc. VLDB Endow. 10(10): 998-1009 (2017) [[paper](https://drive.google.com/file/d/1TDzqTF0PppPJW09TkhWz90esHJzBhMTG/view)]
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: When Engagement Meets Similarity: Efficient (k, r)-Core Computation on Social Networks. Proc. VLDB Endow. 10(10): 998-1009 (2017) [[paper](/papers/2017_vldb_krcore.pdf)]
 
-**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem. AAAI 2017: 245-251 [[paper](https://drive.google.com/file/d/1nUC1TPHRVAmw-Ip8aGvBRyNb0otTK2ZP/view)]
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem. AAAI 2017: 245-251 [[paper](/papers/2017_vldb_krcore.pdf)]
 
 Tutorials
 ======
