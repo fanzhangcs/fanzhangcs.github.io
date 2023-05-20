@@ -98,7 +98,7 @@ Alexander Zhou, **Fan Zhang**, Long Yuan, Ying Zhang, Xuemin Lin: Finding Maxima
 
 **Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: When Engagement Meets Similarity: Efficient (k, r)-Core Computation on Social Networks. Proc. VLDB Endow. 10(10): 998-1009 (2017) [[paper](/papers/2017_vldb_krcore.pdf)]
 
-**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem. AAAI 2017: 245-251 [[paper](/papers/2017_vldb_krcore.pdf)]
+**Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem. AAAI 2017: 245-251 [[paper](/papers/2017_aaai_clpkc.pdf)]
 
 Tutorials
 ======
