@@ -135,5 +135,3 @@ Teaching
 
 - Head TA
   - Social and Information Network Analysis (UTS) - 2017, 2018.
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=gfopiN2eUDhaa4KmLMUm7g-LXbL_XF6hpsFIBVDY3lM&cl=ffffff&w=a"></script>
