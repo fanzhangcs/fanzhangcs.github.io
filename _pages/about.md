@@ -28,8 +28,6 @@ Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier
 
 Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowledge-Based Systems (2023).
 
-Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023. [[paper](/papers/2023_icde_simplepath.pdf), [code](https://drive.google.com/drive/folders/1iwZtCkZDC-Sd0Uo42g7SQLKCmnyURXyS)]
-
 **2022**
 
 Qingyuan Linghu, **Fan Zhang\***, Xuemin Lin, Wenjie Zhang, Ying Zhang: Anchored Coreness: Efficient Reinforcement of Social Networks. VLDB J. 31(2): 227-252 (2022) [[paper](/papers/2021_vldbj_acoreness.pdf)]
