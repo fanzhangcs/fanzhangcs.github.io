@@ -15,7 +15,7 @@ Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Schola
 
 Publications
 ======
-* indicates I am the corresponding author
+\* indicates I am the corresponding author
   
 **2023**
 
