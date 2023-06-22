@@ -13,9 +13,10 @@ Welcome! I am currently a Professor in Guangzhou University. I was a research as
 My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, network stability and influence spread.
 Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
 
-Publications (* indicates corresponding author)
+Publications
 ======
-
+* indicates I am the corresponding author
+  
 **2023**
 
 **Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. Accepted by KDD 2023. [[paper](/papers/2023_KDD_nodeimportance.pdf), [code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability)]
@@ -24,9 +25,11 @@ Publications (* indicates corresponding author)
 
 Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023. [[paper](/papers/2023_icde_infmin.pdf)]
 
-Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023. [[paper](/papers/2023_icde_unod.pdf), [code](https://github.com/goldennormal/vgod-github)]
+Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023. [[paper](/papers/2023_icde_simplepath.pdf), [code](https://drive.google.com/drive/folders/1iwZtCkZDC-Sd0Uo42g7SQLKCmnyURXyS)]
 
 Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowledge-Based Systems (2023).
+
+Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023. [[paper](/papers/2023_icde_unod.pdf), [code](https://github.com/goldennormal/vgod-github)]
 
 **2022**
 
