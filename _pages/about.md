@@ -122,7 +122,7 @@ Academic Services
   - CIKM 2021, DASFAA 2021
   - VLDB 2020 (demo), CIKM 2019, ICDE 2019 (poster)
 
-- Journal Reviewer
+- Invited Journal Reviewer
   - TKDE, WWWJ, Complexity, etc.
 
 - External Reviewer
@@ -145,12 +145,12 @@ Teaching
 Recent Awards
 ======
 
-Social Computing Young Scholar Rising Star, CAAI, 2023
+- Social Computing Young Scholar Rising Star, CAAI, 2023
 
-Outstanding Paper Award, Computer Academy of Guangdong, 2022
+- Outstanding Paper Award, Computer Academy of Guangdong, 2022
 
-CCF Technology Achievement Award, Second Prize in Natural Science (5/5), 2022
+- CCF Technology Achievement Award, Second Prize in Natural Science (5/5), 2022
 
-Excellence in Research Award, CIAT, GZHU, 2021
+- Excellence in Research Award, CIAT, GZHU, 2021
 
-Guidance on CCF Big Data \& Computing Intelligence Contest (rank at 5/526), 2020
+- Guidance on CCF Big Data \& Computing Intelligence Contest (rank at 5/526), 2020
