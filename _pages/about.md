@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Professor in Guangzhou University. I was a research associate in the database group at the University of New South Wales, advised by Prof. Xuemin Lin. I got my PhD from the center for AI at University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor degree in CS from Zhejiang University in 2014. 
+Welcome! I am currently a Professor at Guangzhou University, the Co-director of the Big Data Computing and Intelligence Lab, and Executive Vice Director of the Intelligent Transportation Joint Lab. I was a research associate in the database group at the University of New South Wales, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
 
-My research interests focus on large-scale graph analytics, especially for cohesive subgraph, graph decomposition, network stability and influence spread.
+My research interests focus on large-scale graph analytics including cohesive subgraphs, graph decomposition, network stability, and influence spread.
 Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
 
 Publications
@@ -112,27 +112,45 @@ Ying Zhang, Lu Qin, **Fan Zhang**, Wenjie Zhang: Hierarchical Decomposition of B
 
 Wenjie Zhang, **Fan Zhang**, Ying Zhang, Lu Qin: Cohesive Subgraphs with Hierarchical Decomposition on Big Graphs. DASFAA 2019
 
-Services
+Academic Services
 ======
+
+- Program Committee Member
+  - VLDB 2024, ICDE 2024
+  - KDD 2023, VLDB 2023, WebConf 2023, CIKM 2023
+  - KDD 2022, VLDB 2022, WebConf 2022, AAAI 2022, CIKM 2022, DASFAA 2022
+  - CIKM 2021, DASFAA 2021
+  - VLDB 2020 (demo), CIKM 2019, ICDE 2019 (poster)
 
 - Journal Reviewer
   - TKDE, WWWJ, Complexity, etc.
 
-- Program Committee Member
-  - KDD, VLDB, WebConf, ICDE, AAAI, CIKM, DASFAA, PAKDD, etc.
-
 - External Reviewer
-  - SIGMOD, EDBT, SIGSPATIAL, etc.
+  - SIGMOD, ICDE, EDBT, et
 
 Teaching
 ======
-- Sole Lecturer
-  - Discrete Mathematics - 2023.      
-  - Large-scale Graph Computation and Mining - 2022.   
-  - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023.
 
+- Course Instructor
+  - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023.
+  - Large-scale Graph Computation and Mining - 2022.
+  
 - Lecturer
+  - Discrete Mathematics - 2023.    
   - Big Data Technologies - 2019, 2020, 2021, 2023.
 
 - Head TA
   - Social and Information Network Analysis (UTS) - 2017, 2018.
+
+Recent Awards
+======
+
+Social Computing Young Scholar Rising Star, CAAI, 2023
+
+Outstanding Paper Award, Computer Academy of Guangdong, 2022
+
+CCF Technology Achievement Award, Second Prize in Natural Science (5/5), 2022
+
+Excellence in Research Award, CIAT, GZHU, 2021
+
+Guidance on CCF Big Data \& Computing Intelligence Contest (rank at 5/526), 2020
