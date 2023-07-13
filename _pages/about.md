@@ -153,4 +153,4 @@ Recent Awards
 
 - Excellence in Research Award, CIAT, GZHU, 2021
 
-- Guidance on CCF Big Data \& Computing Intelligence Contest (rank at 5/526), 2020
+- Guidance on CCF Big Data & Computing Intelligence Contest (rank at 5/526), 2020
