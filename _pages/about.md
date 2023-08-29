@@ -29,6 +29,8 @@ Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Ho
 
 Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowledge-Based Systems (2023).
 
+Siyi Teng, Jiadong Xie, Mingkai Zhang, Kai Wang, **Fan Zhang**: IMinimize: A System for Negative Influence Minimization via Vertex Blocking, Accepted by CIKM Demo Track, 2023. [[paper](/papers/2023_cikm_iminimize-demo.pdf), [code](https://github.com/Tsyxxxka/IMinimize)]
+
 Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023. [[paper](/papers/2023_icde_unod.pdf), [code](https://github.com/goldennormal/vgod-github)]
 
 **2022**
