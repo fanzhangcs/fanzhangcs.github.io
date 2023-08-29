@@ -123,7 +123,7 @@ Academic Services
   - VLDB 2020 (demo), CIKM 2019, ICDE 2019 (poster)
 
 - Invited Journal Reviewer
-  - TKDE, WWWJ, Complexity, etc.
+  - TKDE, VLDB Journal, World Wide Web, Complexity, etc.
 
 - External Reviewer
   - SIGMOD, ICDE, EDBT, et
