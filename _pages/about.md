@@ -147,6 +147,8 @@ Teaching
 Recent Awards
 ======
 
+- ACM SIGMOD China Rising Star Award, 2023
+
 - Social Computing Young Scholar Rising Star, CAAI, 2023
 
 - Outstanding Paper Award, Computer Academy of Guangdong, 2022
@@ -154,5 +156,3 @@ Recent Awards
 - CCF Technology Achievement Award, Second Prize in Natural Science (5/5), 2022
 
 - Excellence in Research Award, CIAT, GZHU, 2021
-
-- Guidance on CCF Big Data & Computing Intelligence Contest (rank at 5/526), 2020
