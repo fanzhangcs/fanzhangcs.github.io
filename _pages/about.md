@@ -41,7 +41,7 @@ Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang: Hierarchical 
 
 **Fan Zhang**, Jiadong Xie, Kai Wang, Shiyu Yang, Yu Jiang: Discovering Key Users for Defending Network Structural Stability. World Wide Web 25(2): 679-701 (2022)
 
-Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu: VCEK: A Vertex-Centric Approach for Edge k-Core Problem. World Wide Web 25(2): 723-740 (2022)
+Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu, Binghao Li: VEK: a vertex-oriented approach for edge k-core problem. World Wide Web 25(2): 723-740 (2022)
 
 **2021**
 
