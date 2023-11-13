@@ -19,19 +19,19 @@ Publications
   
 **2023**
 
-**Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. Accepted by KDD 2023. [[paper](/papers/2023_KDD_nodeimportance.pdf), [code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability)]
+**Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. KDD 2023: 3217-3228 [[paper](/papers/2023_KDD_nodeimportance.pdf), [code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability)]
 
 **Fan Zhang**, Haicheng Guo, Dian Ouyang, Shiyu Yang, Xuemin Lin, Zhihong Tian: Size-constrained Community Search on Large Networks: An Effective and Efficient Solution. Accepted by IEEE Trans. Knowl. Data Eng. [[paper](/papers/2023_TKDE_sctruss.pdf), [code](https://github.com/codecreateworld321/STCS)]
 
-Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking.  Accepted by ICDE 2023. [[paper](/papers/2023_icde_infmin.pdf)]
+Jiadong Xie, **Fan Zhang\***, Kai Wang, Xuemin Lin, Wenjie Zhang: Minimizing the Influence of Misinformation via Vertex Blocking. ICDE 2023: 789-801 [[paper](/papers/2023_icde_infmin.pdf)]
 
-Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. Accepted by ICDE 2023. [[paper](/papers/2023_icde_simplepath.pdf), [code](https://drive.google.com/drive/folders/1iwZtCkZDC-Sd0Uo42g7SQLKCmnyURXyS)]
+Jiujing Zhang, Shiyu Yang, Dian Ouyang, **Fan Zhang**, Xuemin Lin, Long Yuan: Hop-Constrained s-t Simple Path Enumeration on Large Dynamic Graphs. ICDE 2023: 762-775 [[paper](/papers/2023_icde_simplepath.pdf), [code](https://drive.google.com/drive/folders/1iwZtCkZDC-Sd0Uo42g7SQLKCmnyURXyS)]
 
-Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowledge-Based Systems (2023).
+Wancheng Long, Xiaowen Li, Liping Wang, **Fan Zhang**, Zhe Lin, Xuemin Lin: Efficient m-Closest Entity Matching over Heterogeneous Information Networks. Knowl. Based Syst. 263: 110299 (2023)
 
-Siyi Teng, Jiadong Xie, Mingkai Zhang, Kai Wang, **Fan Zhang**: IMinimize: A System for Negative Influence Minimization via Vertex Blocking, Accepted by CIKM Demo Track, 2023. [[paper](/papers/2023_cikm_iminimize-demo.pdf), [code](https://github.com/Tsyxxxka/IMinimize)]
+Siyi Teng, Jiadong Xie, Mingkai Zhang, Kai Wang, **Fan Zhang**: IMinimize: A System for Negative Influence Minimization via Vertex Blocking. CIKM 2023: 5101-5105 (Demo) [[paper](/papers/2023_cikm_iminimize-demo.pdf), [code](https://github.com/Tsyxxxka/IMinimize)]
 
-Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. Accepted by ICDE 2023. [[paper](/papers/2023_icde_unod.pdf), [code](https://github.com/goldennormal/vgod-github)]
+Yihong Huang, Liping Wang, **Fan Zhang**, Xuemin Lin: Unsupervised Graph Outlier Detection: Problem Revisit, New Insight, and Superior Method. ICDE 2023: 2565-2578 [[paper](/papers/2023_icde_unod.pdf), [code](https://github.com/goldennormal/vgod-github)]
 
 **2022**
 
