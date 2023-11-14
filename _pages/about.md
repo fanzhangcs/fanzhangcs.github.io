@@ -47,7 +47,7 @@ Zhongxin Zhou, Wenchao Zhang, **Fan Zhang\***, Deming Chu, Binghao Li: VEK: a ve
 
 Conggai Li, **Fan Zhang\***, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Discovering Fortress-like Cohesive Subgraphs. Knowl. Inf. Syst. 63(12): 3217-3250 (2021) [[paper](/papers/2021_kais_pc.pdf)]
 
-Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian: Adaptive Asynchronous Clustering Algorithms for Wireless Mesh Networks. IEEE Trans. Knowl. Data Eng. (2021)
+Cheng Qiao, Kenneth N. Brown, **Fan Zhang**, Zhihong Tian: Adaptive Asynchronous Clustering Algorithms for Wireless Mesh Networks. IEEE Trans. Knowl. Data Eng. 35(3): 2610-2627 (2023)
 
 Zhe Lin, **Fan Zhang**, Xuemin Lin, Wenjie Zhang, Zhihong Tian: Hierarchical Core Maintenance on Large Dynamic Graphs. Proc. VLDB Endow. 14(5): 757-770 (2021) [[paper](/papers/2021_vldb_coremaintain.pdf)]
 
