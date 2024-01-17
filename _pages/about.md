@@ -16,6 +16,11 @@ Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Schola
 Publications
 ======
 **\* indicates I am the corresponding author.**
+
+**2024**
+
+Jiadong Xie, Zehua Chen, Deming Chu, **Fan Zhang\***, Xuemin Lin, Zhihong Tian: Influence Maximization via Vertex Countering. Accepted by VLDB 2024.
+
   
 **2023**
 
@@ -118,7 +123,7 @@ Academic Services
 ======
 
 - Program Committee Member
-  - VLDB 2024, ICDE 2024, TheWebConf 2024, SDM 2024
+  - KDD 2024, VLDB 2024, ICDE 2024, TheWebConf 2024, SDM 2024
   - KDD 2023, VLDB 2023, TheWebConf 2023, CIKM 2023
   - KDD 2022, VLDB 2022, TheWebConf 2022, AAAI 2022, CIKM 2022, DASFAA 2022
   - CIKM 2021, DASFAA 2021
