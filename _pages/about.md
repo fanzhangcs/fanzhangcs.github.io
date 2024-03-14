@@ -23,10 +23,12 @@ Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summari
 
 Jiadong Xie, Zehua Chen, Deming Chu, **Fan Zhang\***, Xuemin Lin, Zhihong Tian: Influence Maximization via Vertex Countering. Accepted by VLDB 2024.
 
+Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral).
+
 Qi Liang, Dian Ouyang, **Fan Zhang**, Jianye Yang, Xuemin Lin, Zhihong Tian: Efficient Regular Simple Path Queries under Transitive Restricted Expressions. Accepted by VLDB 2024.
 
-Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral).
-  
+Shuhao Li, Yue Cui, Libin Li, Weidong Yang,**Fan Zhang**, Xiaofang Zhou: ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction. Accepted by ICDE 2024.
+
 **2023**
 
 **Fan Zhang**, Qingyuan Linghu, Jiadong Xie, Kai Wang, Xuemin Lin, Wenjie Zhang: Quantifying Node Importance over Network Structural Stability. KDD 2023: 3217-3228 [[paper](/papers/2023_KDD_nodeimportance.pdf), [code](https://github.com/Xiejiadong/Quantifying-Node-Importance-over-Network-Structural-Stability)]
