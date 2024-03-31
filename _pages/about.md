@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Professor at Guangzhou University, the Co-director of the Big Data Computing and Intelligence Lab, and Executive Vice Director of the Intelligent Transportation Joint Lab. I was a research associate in the database group at the University of New South Wales, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
+Welcome! I am currently a Professor at Guangzhou University, the Co-director of the Big Data Computing and Intelligence Lab, and Executive Vice Director of the Intelligent Transportation Joint Lab. I was a research associate in the University of New South Wales database group, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
 
 My research interests focus on large-scale graph analytics including cohesive subgraphs, graph decomposition, network stability, and influence spread.
-Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html) and [Google Scholar](https://scholar.google.com.au/citations?user=0OXLcmYAAAAJ&hl=zh-CN).
+<!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
+
+*<ins>Postgraduate and Staff Positions Available<ins>*: (1) I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. Backgrounds in mathematics or ACM/CTF competitions are preferred. (2) Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
 
 Publications
 ======
@@ -168,3 +170,4 @@ Recent Awards
 - CCF Technology Achievement Award, Second Prize in Natural Science (5/5), 2022
 
 - Excellence in Research Award, CIAT, GZHU, 2021
+
