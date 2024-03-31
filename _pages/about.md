@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Professor at Guangzhou University, the Co-director of the Big Data Computing and Intelligence Lab, and Executive Vice Director of the Intelligent Transportation Joint Lab. I was a research associate in the University of New South Wales database group, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
+Welcome! I am currently a Professor at Guangzhou University, the Co-director of the Big Data Computing and Intelligence Lab, and Executive Vice Director of the Intelligent Transportation Joint Lab. I was a research associate at the University of New South Wales and a visiting fellow at East China Normal University, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
 
 My research interests focus on large-scale graph analytics including cohesive subgraphs, graph decomposition, network stability, and influence spread.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
 
 *<ins>Postgraduate and Staff Positions Available<ins>*: (1) I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. Backgrounds in mathematics or ACM/CTF competitions are preferred. (2) Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
 
-Publications
+Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
@@ -171,3 +171,19 @@ Recent Awards
 
 - Excellence in Research Award, CIAT, GZHU, 2021
 
+Our Students
+======
+
+- Co-supervised by me:
+  - [Deming Chu](https://nedchu.github.io/), since master study at ECNU, now pursue PhD at UNSW.
+  - [Conggai Li](https://sites.google.com/view/conggai-li/home), since PhD study at UTS, now a Postdoc in CSIRO.
+  - [Qingyuan Linghu](https://www.researchgate.net/profile/Qingyuan-Linghu), since PhD study at UNSW, now an Engineer at TikTok AU.
+  - [Jiujing Zhang](https://st3phzhang.github.io), since master study at GZU, now pursue PhD at UNSW.
+  - Zhongxin Zhou, since master study at ECNU, now an Engineer at Meituan.
+  - Zhe Lin, since PhD study at ECNU, now an Engineer at Xiaohongshu.
+
+- Supervised by me:
+  - Zhuoran Wang, since master study at GZU, now pursue PhD at UNSW.
+  - Haicheng Guo, since master study at GZU, to pursue PhD study in Australia.
+  - Xintong Wang, since master study at GZU, now pursue PhD at ZJU.
+  - Xu Lei, since master study at GZU, now an Engineer at Xiangsu Software.
