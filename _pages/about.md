@@ -13,7 +13,7 @@ Welcome! I am currently a Professor at Guangzhou University, the Co-director of 
 My research interests focus on large-scale graph analytics including cohesive subgraphs, graph decomposition, network stability, and influence spread.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
 
-*<ins>Postgraduate and Staff Positions Available<ins>*: (1) I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. Backgrounds in mathematics or ACM/CTF competitions are preferred. (2) Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
+*<ins>Postgraduate and Staff Positions Available<\ins>*: (1) I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. Backgrounds in mathematics or ACM/CTF competitions are preferred. (2) Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
 
 Selected Publications
 ======
