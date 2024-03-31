@@ -184,15 +184,14 @@ Our Students
 ======
 
 - Co-supervised by me:
-  
-  - [Deming Chu](https://nedchu.github.io/), since master study at ECNU, now pursue PhD at UNSW.
-  - [Jiadong Xie](https://xiejiadong.github.io/), since bachelor study at ECNU, now pursue PhD at CUHK.
-  - Siyi Teng, since bachelor study at ECNU, to pursue PhD at CUHK.
   - [Conggai Li](https://sites.google.com/view/conggai-li/home), since PhD study at UTS, now a Postdoc in CSIRO.
   - [Qingyuan Linghu](https://www.researchgate.net/profile/Qingyuan-Linghu), since PhD study at UNSW, now an Engineer at TikTok AU.
+  - Zhe Lin, since PhD study at ECNU, now an Engineer at Xiaohongshu.
+  - [Deming Chu](https://nedchu.github.io/), since master study at ECNU, now pursue PhD at UNSW.
   - [Jiujing Zhang](https://st3phzhang.github.io), since master study at GZU, now pursue PhD at UNSW.
   - Zhongxin Zhou, since master study at ECNU, now an Engineer at Meituan.
-  - Zhe Lin, since PhD study at ECNU, now an Engineer at Xiaohongshu.
+  - [Jiadong Xie](https://xiejiadong.github.io/), since bachelor study at ECNU, now pursue PhD at CUHK.
+  - Siyi Teng, since bachelor study at ECNU, to pursue PhD at CUHK.
 
 - Supervised by me:
   - Zhuoran Wang, since master study at GZU, now pursue PhD at UNSW.
