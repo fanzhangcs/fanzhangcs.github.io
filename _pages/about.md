@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! I am currently a Professor of CIAT, the Co-director of the Big Data Computing and Intelligence Institute, and Executive Vice Director of the Intelligent Transportation Joint Lab, at Guangzhou University. I was a research associate at the University of New South Wales and a visiting fellow at East China Normal University, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
 
-My research interests focus on large-scale graph analytics including cohesive subgraphs, graph decomposition, network stability, and influence spread.
+My research interests focus on large-scale graph management and analysis, including cohesive subgraphs, graph decomposition, network stability, information cascade, graph summarization, and outlier detection.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
 
 *<ins>Postgraduate and Staff Positions Available</ins>*: (1) I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. Backgrounds in mathematics or ACM/CTF competitions are preferred. (2) Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
@@ -117,8 +117,14 @@ Alexander Zhou, **Fan Zhang**, Long Yuan, Ying Zhang, Xuemin Lin: Finding Maxima
 
 **Fan Zhang**, Ying Zhang, Lu Qin, Wenjie Zhang, Xuemin Lin: Finding Critical Users for Social Network Engagement: The Collapsed k-Core Problem. AAAI 2017: 245-251 [[paper](/papers/2017_aaai_clpkc.pdf)]
 
-Tutorials
+Invited Talks
 ======
+
+**Fan Zhang**. Efficient Graph Computation: Cohesive Subgraph, Graph Decomposition, Graph Stability, and Others. Huawei Algorithm Forum 2023.
+
+**Fan Zhang**. The Stability of Social Networks: Models and Computations. CAAI Big Data and Social Computing Conference 2023.
+
+**Fan Zhang**. Efficient Graph Computation: Cohesive Subgraph, Graph Decomposition, and More. UNIST CSE×AI Seminar 2023.
 
 **Fan Zhang**, Kai Wang. Cohesive Subgraph Search: Models, Algorithms, and Applications. APWeb-WAIM 2022.
 
