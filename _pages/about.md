@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a Professor at Guangzhou University, the Co-director of the Big Data Computing and Intelligence Lab, and Executive Vice Director of the Intelligent Transportation Joint Lab. I was a research associate at the University of New South Wales and a visiting fellow at East China Normal University, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
+Welcome! I am currently a Professor of CIAT, the Co-director of the Big Data Computing and Intelligence Institute, and Executive Vice Director of the Intelligent Transportation Joint Lab, at Guangzhou University. I was a research associate at the University of New South Wales and a visiting fellow at East China Normal University, advised by Prof. Xuemin Lin. I got my Ph.D. from the Center for AI at the University of Technology Sydney in 2018, advised by Prof. Ying Zhang and Prof. Lu Qin. I received my Bachelor's degree from Zhejiang University in 2014. 
 
 My research interests focus on large-scale graph analytics including cohesive subgraphs, graph decomposition, network stability, and influence spread.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
