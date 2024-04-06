@@ -10,7 +10,7 @@ main:
     url: /#services
     
   - title: "Teaching"
-    url: /#teaching1
+    url: /#teaching
   
   - title: "Recent Awards"
     url: /#awards  
