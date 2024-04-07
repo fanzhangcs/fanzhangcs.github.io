@@ -1,22 +1,22 @@
 # main links links
 main:
   - title: "Selected Publications"
-    url: /#publications
+    url: /#selected-publications
 
   - title: "Invited Talks"
-    url: /#talks 
+    url: /#invited-talks 
   
   - title: "Academic Services"
-    url: /#services
+    url: /#academic-services
     
   - title: "Teaching"
     url: /#teaching
   
   - title: "Recent Awards"
-    url: /#awards  
+    url: /#recent-awards  
     
   - title: "Our Students"
-    url: /#students      
+    url: /#our-students      
 
 
     
