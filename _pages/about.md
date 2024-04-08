@@ -13,7 +13,7 @@ Welcome! I am currently a Professor of CIAT, the Co-director of the Big Data Com
 My research interests focus on large-scale graph management and analysis, including cohesive subgraphs, graph decomposition, network stability, information cascade, graph summarization, and outlier detection.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
 
-*<ins>Postgraduate Positions Available</ins>*: I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. Backgrounds in mathematics or ACM/CTF competitions are preferred. 
+*<ins>Postgraduate Positions Available</ins>*: I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. You can send an email to me with your CV. 
 
 *<ins>Tenure-track/Tenured Positions Available</ins>*: Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
 
