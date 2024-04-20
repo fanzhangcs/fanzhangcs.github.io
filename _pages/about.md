@@ -172,7 +172,7 @@ Recent Awards
 
 - ACM SIGMOD China Rising Star Award, 2023
 
-- Social Computing Young Scholar Rising Star, CAAI, 2023
+- CAAI BDSC Social Computing Young Scholar Rising Star, 2023
 
 - Outstanding Paper Award, Computer Academy of Guangdong, 2022
 
