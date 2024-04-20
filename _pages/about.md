@@ -157,12 +157,12 @@ Teaching
 ======
 
 - Course Instructor
-  - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023.
-  - Large-scale Graph Computation and Mining - 2022.
+  - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023, 2024.
+  - Large-scale Graph Computation and Mining - 2022, 2024.
   
 - Lecturer
-  - Discrete Mathematics - 2023.    
-  - Big Data Technologies - 2019, 2020, 2021, 2023.
+  - Discrete Mathematics - 2023, 2024.    
+  - Big Data Technologies - 2019, 2020, 2021, 2023, 2024.
 
 - Head TA
   - Social and Information Network Analysis (UTS) - 2017, 2018.
