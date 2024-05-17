@@ -145,7 +145,7 @@ Academic Services
 ======
 
 - Program Committee Member
-  - KDD 2024, VLDB 2024, ICDE 2024, TheWebConf 2024, SDM 2024
+  - KDD 2024, VLDB 2024, ICDE 2024, TheWebConf 2024, CIKM 2024 (SPC), SDM 2024
   - KDD 2023, VLDB 2023, TheWebConf 2023, CIKM 2023
   - KDD 2022, VLDB 2022, TheWebConf 2022, AAAI 2022, CIKM 2022, DASFAA 2022
   - CIKM 2021, DASFAA 2021
@@ -163,9 +163,10 @@ Teaching
 - Course Instructor
   - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023, 2024
   - Large-scale Graph Computation and Mining - 2022, 2024
-  
+  - Discrete Mathematics - 2024
+      
 - Lecturer
-  - Discrete Mathematics - 2023, 2024
+  - Discrete Mathematics - 2023
   - Big Data Technologies - 2019, 2020, 2021, 2023, 2024
 
 - Head TA
