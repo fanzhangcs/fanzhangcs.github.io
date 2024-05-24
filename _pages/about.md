@@ -24,7 +24,7 @@ Selected Publications
 
 **2024**
 
-Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summarization: Compactness Meets Efficiency. Accepted by SIGMOD 2024
+Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summarization: Compactness Meets Efficiency. Accepted by SIGMOD 2024  [[paper](papers/2024_SIGMO_graphsum_cr.pdf)]
 
 Jiadong Xie, Zehua Chen, Deming Chu, **Fan Zhang\***, Xuemin Lin, Zhihong Tian: Influence Maximization via Vertex Countering. Accepted by VLDB 2024. [[paper](/papers/2024_VLDB_countering.pdf)]
 
