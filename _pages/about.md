@@ -24,11 +24,11 @@ Selected Publications
 
 **2024**
 
-Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summarization: Compactness Meets Efficiency. Accepted by SIGMOD 2024  [[paper](papers/2024_SIGMO_graphsum_cr.pdf)]
+Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summarization: Compactness Meets Efficiency. Accepted by SIGMOD 2024  [[paper](/papers/2024_SIGMO_graphsum_cr.pdf)]
 
 Jiadong Xie, Zehua Chen, Deming Chu, **Fan Zhang\***, Xuemin Lin, Zhihong Tian: Influence Maximization via Vertex Countering. Accepted by VLDB 2024. [[paper](/papers/2024_VLDB_countering.pdf)]
 
-Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral). [[paper](papers/2024_WebConf_followermax.pdf), [code](https://github.com/Tsyxxxka/Follower-Maximization), [video](https://www.youtube.com/watch?v=FidHoFm8uOE)]
+Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral). [[paper](/papers/2024_WebConf_followermax.pdf), [code](https://github.com/Tsyxxxka/Follower-Maximization), [video](https://www.youtube.com/watch?v=FidHoFm8uOE)]
 
 Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yinglong Xia, Chenyi Zhang: Discovering and Maintaining the Best k in Core Decomposition. Accepted by IEEE TKDE 2024.
 
