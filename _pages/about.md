@@ -32,7 +32,7 @@ Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizi
 
 Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yinglong Xia, Chenyi Zhang: Discovering and Maintaining the Best k in Core Decomposition. Accepted by IEEE TKDE 2024.
 
-Dian Ouyang, Zhuoran Wang, **Fan Zhang\***, Shiyu Yang, Jianye Yang, Xuemin Lin: Multi-Source Shortest Path Query With Assembly Points on Large Graphspp. Accepted by IEEE TKDE 2024.
+Dian Ouyang, Zhuoran Wang, **Fan Zhang\***, Shiyu Yang, Jianye Yang, Xuemin Lin: Multi-Source Shortest Path Query With Assembly Points on Large Graphs. Accepted by IEEE TKDE 2024.
 
 Qi Liang, Dian Ouyang, **Fan Zhang**, Jianye Yang, Xuemin Lin, Zhihong Tian: Efficient Regular Simple Path Queries under Transitive Restricted Expressions. Accepted by VLDB 2024.
 
