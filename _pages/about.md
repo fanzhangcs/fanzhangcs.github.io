@@ -22,6 +22,12 @@ Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
+Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian: Most Similar Biclique Search at Scale. Accepted by VLDB 2025.
+
+Jinyu Duan, Haicheng Guo, **Fan Zhang\***, Kai Wang, Zhengping Qian, Zhihong Tian: The k-Trine Cohesive Subgraph and Its Efficient Algorithms. Accepted by KDD 2025.
+
+Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by Informs Journal on Computing.
+
 **2024**
 
 Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summarization: Compactness Meets Efficiency. Accepted by SIGMOD 2024  [[paper](/papers/2024_SIGMO_graphsum_cr.pdf)]
@@ -37,6 +43,8 @@ Dian Ouyang, Zhuoran Wang, **Fan Zhang\***, Shiyu Yang, Jianye Yang, Xuemin Lin:
 Qi Liang, Dian Ouyang, **Fan Zhang**, Jianye Yang, Xuemin Lin, Zhihong Tian: Efficient Regular Simple Path Queries under Transitive Restricted Expressions. Accepted by VLDB 2024.
 
 Shuhao Li, Yue Cui, Libin Li, Weidong Yang, **Fan Zhang**, Xiaofang Zhou: ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction. Accepted by ICDE 2024.
+
+Shuhao Li, Yue Cui, Jingyi Xu, Jing Zhao, **Fan Zhang**, Weidong Yang, Xiaofang Zhou: Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction. Accepted by CIKM 2024.
 
 Yihong Huang, Yuang Zhang, Liping Wang, **Fan Zhang**, Xuemin Lin: EntropyStop: Unsupervised Deep Outlier Detection with Loss Entropy. Accepted by KDD 2024.
 
