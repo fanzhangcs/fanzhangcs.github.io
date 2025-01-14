@@ -13,40 +13,40 @@ Welcome! I am currently a Professor of CIAT, the Co-director of the Big Data Com
 My research interests focus on large-scale graph management and analysis, including cohesive subgraphs, graph decomposition, network stability, information cascade, graph summarization, and outlier detection.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
 
-*<ins>Postgraduate Positions Available</ins>*: I am looking for self-motivated students to join my group. You may refer to the status of my former/current students. You can send an email to me with your CV. 
+*<ins>Postgraduate Positions Available</ins>*: I am looking for self-motivated students to join our group. You may refer to the status of our former/current students. Please feel free to send me an email with your CV. 
 
-*<ins>Tenure-track/Tenured Positions Available</ins>*: Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers. 
+*<ins>Tenure-track/Tenured Positions Available</ins>*: Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers.
 
 
 Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
-Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian: Most Similar Biclique Search at Scale. Accepted by VLDB 2025.
+Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian: Most Similar Biclique Search at Scale. Accepted by VLDB 2025
 
-Jinyu Duan, Haicheng Guo, **Fan Zhang\***, Kai Wang, Zhengping Qian, Zhihong Tian: The k-Trine Cohesive Subgraph and Its Efficient Algorithms. Accepted by KDD 2025.
+Jinyu Duan, Haicheng Guo, **Fan Zhang\***, Kai Wang, Zhengping Qian, Zhihong Tian: The k-Trine Cohesive Subgraph and Its Efficient Algorithms. Accepted by KDD 2025 [[paper](/papers/2025_KDD_ktrine.pdf)]
 
-Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by Informs Journal on Computing.
+Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by Informs Journal on Computing
 
 **2024**
 
 Deming Chu, **Fan Zhang\***, Wenjie Zhang, Ying Zhang, Xuemin Lin: Graph Summarization: Compactness Meets Efficiency. Accepted by SIGMOD 2024  [[paper](/papers/2024_SIGMO_graphsum_cr.pdf), [code](https://github.com/nedchu/mags-release)]
 
-Jiadong Xie, Zehua Chen, Deming Chu, **Fan Zhang\***, Xuemin Lin, Zhihong Tian: Influence Maximization via Vertex Countering. Accepted by VLDB 2024. [[paper](/papers/2024_VLDB_countering.pdf), [code](https://github.com/mao-qiu/countering)]
+Jiadong Xie, Zehua Chen, Deming Chu, **Fan Zhang\***, Xuemin Lin, Zhihong Tian: Influence Maximization via Vertex Countering. Accepted by VLDB 2024 [[paper](/papers/2024_VLDB_countering.pdf), [code](https://github.com/mao-qiu/countering)]
 
-Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral). [[paper](/papers/2024_WebConf_followermax.pdf), [code](https://github.com/Tsyxxxka/Follower-Maximization), [video](https://www.youtube.com/watch?v=FidHoFm8uOE)]
+Siyi Teng, Jiadong Xie, **Fan Zhang\***, Can Lu, Juntao Fang, Kai Wang: Optimizing Network Resilience via Vertex Anchoring. Accepted by The Web Conference 2024 (oral) [[paper](/papers/2024_WebConf_followermax.pdf), [code](https://github.com/Tsyxxxka/Follower-Maximization), [video](https://www.youtube.com/watch?v=FidHoFm8uOE)]
 
-Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yinglong Xia, Chenyi Zhang: Discovering and Maintaining the Best k in Core Decomposition. Accepted by IEEE TKDE 2024.
+Deming Chu, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Ying Zhang, Yinglong Xia, Chenyi Zhang: Discovering and Maintaining the Best k in Core Decomposition. Accepted by IEEE TKDE 2024
 
-Dian Ouyang, Zhuoran Wang, **Fan Zhang\***, Shiyu Yang, Jianye Yang, Xuemin Lin: Multi-Source Shortest Path Query With Assembly Points on Large Graphs. Accepted by IEEE TKDE 2024.
+Dian Ouyang, Zhuoran Wang, **Fan Zhang\***, Shiyu Yang, Jianye Yang, Xuemin Lin: Multi-Source Shortest Path Query With Assembly Points on Large Graphs. Accepted by IEEE TKDE 2024
 
-Qi Liang, Dian Ouyang, **Fan Zhang**, Jianye Yang, Xuemin Lin, Zhihong Tian: Efficient Regular Simple Path Queries under Transitive Restricted Expressions. Accepted by VLDB 2024.
+Qi Liang, Dian Ouyang, **Fan Zhang**, Jianye Yang, Xuemin Lin, Zhihong Tian: Efficient Regular Simple Path Queries under Transitive Restricted Expressions. Accepted by VLDB 2024
 
-Shuhao Li, Yue Cui, Libin Li, Weidong Yang, **Fan Zhang**, Xiaofang Zhou: ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction. Accepted by ICDE 2024.
+Shuhao Li, Yue Cui, Libin Li, Weidong Yang, **Fan Zhang**, Xiaofang Zhou: ST-ABC: Spatio-Temporal Attention-Based Convolutional Network for Multi-Scale Lane-Level Traffic Prediction. Accepted by ICDE 2024
 
-Shuhao Li, Yue Cui, Jingyi Xu, Jing Zhao, **Fan Zhang**, Weidong Yang, Xiaofang Zhou: Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction. Accepted by CIKM 2024.
+Shuhao Li, Yue Cui, Jingyi Xu, Jing Zhao, **Fan Zhang**, Weidong Yang, Xiaofang Zhou: Seeing the Forest for the Trees: Road-Level Insights Assisted Lane-Level Traffic Prediction. Accepted by CIKM 2024
 
-Yihong Huang, Yuang Zhang, Liping Wang, **Fan Zhang**, Xuemin Lin: EntropyStop: Unsupervised Deep Outlier Detection with Loss Entropy. Accepted by KDD 2024.
+Yihong Huang, Yuang Zhang, Liping Wang, **Fan Zhang**, Xuemin Lin: EntropyStop: Unsupervised Deep Outlier Detection with Loss Entropy. Accepted by KDD 2024
 
 **2023**
 
