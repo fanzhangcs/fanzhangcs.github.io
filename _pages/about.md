@@ -22,11 +22,15 @@ Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
-Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian: Most Similar Biclique Search at Scale. Accepted by VLDB 2025
-
 Jinyu Duan, Haicheng Guo, **Fan Zhang\***, Kai Wang, Zhengping Qian, Zhihong Tian: The k-Trine Cohesive Subgraph and Its Efficient Algorithms. Accepted by KDD 2025 [[paper](/papers/2025_KDD_ktrine.pdf), [code](https://github.com/Nietzsche233/K-trine)]
 
-Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by Informs Journal on Computing
+Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian: Most Similar Biclique Search at Scale. Accepted by VLDB 2025
+
+Yongxin Cai, Jing Qiu, **Fan Zhang**, Qiang Li, Lei Chen: A Knowledge Extraction Framework on Cyber Threat Reports with Enhanced Security Profiles. Accepted by SIGIR 2025
+
+Ruicheng Zhu, Xintong Wang, Kai Wang, **Fan Zhang**, Zhengping Qian, Long Yuan: Efficient k-Truss Breaking and Minimization. Accepted by ICDE 2025
+
+Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by the Informs Journal on Computing
 
 **2024**
 
@@ -169,7 +173,10 @@ Academic Services
 
 Teaching
 ======
+- Member of the Teaching Guidance/Supervision Committee of CIAT
 
+- Founder and Supervisor of the XCPC Team in Huangpu Campus, GZHU
+   
 - Course Instructor
   - Guidance of Research Paper Writing - 2020, 2021, 2022, 2023, 2024
   - Large-scale Graph Computation and Mining - 2022, 2024
@@ -185,11 +192,13 @@ Teaching
 Recent Awards
 ======
 
+- KDD Excellent Reviewer, 2025
+  
 - ACM SIGMOD China Rising Star Award, 2023
 
 - CAAI BDSC Social Computing Young Scholar Rising Star, 2023
 
-- Outstanding Paper Award, Computer Academy of Guangdong, 2022
+- Outstanding Paper Award, Computer Academy of Guangdong, 2022-2023
 
 - CCF Technology Achievement Award, Second Prize in Natural Science (5/5), 2022
 
@@ -202,14 +211,17 @@ Our Students
   - [Conggai Li](https://sites.google.com/view/conggai-li/home), since PhD study at UTS, now a Postdoc in CSIRO.
   - [Qingyuan Linghu](https://www.researchgate.net/profile/Qingyuan-Linghu), since PhD study at UNSW, now an Engineer at TikTok AU.
   - Zhe Lin, since PhD study at ECNU, now an Engineer at Xiaohongshu.
-  - [Deming Chu](https://nedchu.github.io/), since master study at ECNU, now pursue PhD at UNSW.
-  - [Jiujing Zhang](https://st3phzhang.github.io), since master study at GZU, now pursue PhD at UNSW.
-  - Zhongxin Zhou, since master study at ECNU, now an Engineer at Meituan.
-  - [Jiadong Xie](https://xiejiadong.github.io/), since bachelor study at ECNU, now pursue PhD at CUHK.
-  - Siyi Teng, since bachelor study at ECNU, to pursue PhD at CUHK.
+  - [Deming Chu](https://nedchu.github.io/), since master study at ECNU, now pursuing PhD at UNSW.
+  - [Jiujing Zhang](https://st3phzhang.github.io), since master study at GZU, now pursuing PhD at UNSW.
+  - Zhongxin Zhou, since master study at ECNU, now an engineer at Meituan.
+  - [Jiadong Xie](https://xiejiadong.github.io/), since bachelor study at ECNU, now pursuing PhD at CUHK.
+  - Siyi Teng, since bachelor study at ECNU, now pursuing PhD at CUHK.
+  - Qi Liang, since master study at GZU, now pursuing PhD at SJTU.
 
 - Supervised by me:
-  - Zhuoran Wang, since master study at GZU, now pursue PhD at UNSW.
-  - Haicheng Guo, since master study at GZU, to pursue PhD study in Australia.
-  - Xintong Wang, since master study at GZU, now pursue PhD at ZJU.
+  - Zhuoran Wang, since master study at GZU, now pursuing PhD at UNSW.
+  - Haicheng Guo, since master study at GZU, intern at Alibaba Cloud, and now an engineer at Machloop.
+  - Xintong Wang, since master study at GZU, now pursuing PhD at ZJU.
   - Xu Lei, since master study at GZU, now an Engineer at Xiangsu Software.
+  - Mingkai Zhang, since master study at GZU, intern at Alibaba Cloud, and now an engineer at Tiandy.
+  - Kaiyuan Shu, since master study at GZU, now pursuing PhD at BUPT.
