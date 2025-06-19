@@ -22,6 +22,8 @@ Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
+**2025**
+
 Jinyu Duan, Haicheng Guo, **Fan Zhang\***, Kai Wang, Zhengping Qian, Zhihong Tian: The k-Trine Cohesive Subgraph and Its Efficient Algorithms. Accepted by KDD 2025 [[paper](/papers/2025_KDD_ktrine.pdf), [code](https://github.com/Nietzsche233/K-trine)]
 
 Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian: Most Similar Biclique Search at Scale. Accepted by VLDB 2025
