@@ -28,9 +28,16 @@ Deming Chu, Zhizhi Gao, **Fan Zhang\***, Wenjie Zhang, Xuemin Lin, Zhihong Tian:
 
 Yongxin Cai, Jing Qiu, **Fan Zhang**, Qiang Li, Lei Chen: A Knowledge Extraction Framework on Cyber Threat Reports with Enhanced Security Profiles. Accepted by SIGIR 2025
 
+Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by the Informs Journal on Computing
+
 Ruicheng Zhu, Xintong Wang, Kai Wang, **Fan Zhang**, Zhengping Qian, Long Yuan: Efficient k-Truss Breaking and Minimization. Accepted by ICDE 2025
 
-Jiadong Xie, **Fan Zhang**, Kai Wang, Jialu Liu, Xuemin Lin, Wenjie Zhang: Influence Minimization via Blocking Strategies. Accepted by the Informs Journal on Computing
+Shuhao Li, Yue Cui, Jingyi Xu, Libin Li, Lingkai Meng, Weidong Yang, **Fan Zhang**, Xiaofang Zhou: Unifying Lane-Level Traffic Prediction from a Graph Structural Perspective: Benchmark and Baseline. Accepted by IEEE TKDE 2025
+
+Long Yuan, Zeyu Zhou, Xuemin Lin, Zi Chen, Xiang Zhao, **Fan Zhang**: GPUSCAN++: Efficient Structural Graph Clustering on GPUs. Accepted by IEEE TPDS 2025
+
+Shuhao Li, Weidong Yang, Yue Cui, Xiaoxing Liu, Lingkai Meng, Lipeng Ma, **Fan Zhang**: Fine-Grained Traffic Inference from Road to Lane via Spatio-Temporal Graph Node Generation. Accepted by KDD 2025
+
 
 **2024**
 
