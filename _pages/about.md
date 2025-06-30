@@ -13,10 +13,13 @@ Welcome! I am currently a Professor of CIAT, the Co-director of the Big Data Com
 My research interests focus on large-scale graph management and analysis, including cohesive subgraphs, graph decomposition, network stability, information cascade, graph summarization, and outlier detection.
 <!--Link to [DBLP](https://dblp.uni-trier.de/pid/21/3626-36.html).-->
 
+<!--
 *<ins>Postgraduate Positions Available</ins>*: I am looking for self-motivated students to join our group. You may refer to the status of our former/current students. Please feel free to send me an email with your CV. 
 
 *<ins>Tenure-track/Tenured Positions Available</ins>*: Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers.
+-->
 
+**对于考研学生**: 课题组名额有限（估计1学硕+3专硕），竞争激烈，有意进组的同学请尽早给我发邮件(zhangf@gzhu.edu.cn)。组内学术氛围浓厚，毕业去向请见页底。
 
 Selected Publications
 ======
