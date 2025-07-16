@@ -19,7 +19,7 @@ My research interests focus on large-scale graph management and analysis, includ
 *<ins>Tenure-track/Tenured Positions Available</ins>*: Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers.
 -->
 
-**对于考研学生**: 课题组名额有限（估计1学硕+3专硕），竞争激烈，有意进组的同学请尽早给我发邮件(zhangf@gzhu.edu.cn)。组内学术氛围浓厚，毕业去向请见页底。
+**对于考研学生**: 课题组名额有限（估计1学硕+3专硕），有意进组的同学请尽早给我发邮件(zhangf@gzhu.edu.cn)。组内学术氛围浓厚，毕业去向较好（请见页底）。
 
 Selected Publications
 ======
