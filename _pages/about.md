@@ -29,6 +29,8 @@ Selected Publications
 
 Weihao Yu, Dian Ouyang, **Fan Zhang**, Xiang Zhao, Shen Su, Xuemin Lin, Zhihong Tian: Hops Can be Constrained: Efficient Distance Queries on Large Time-Dependent Road Networks. Accepted by SIGMOD 2026
 
+Dian Ouyang, Jiajie Lin, Wentao Li, **Fan Zhang\***, Jianye Yang, Xi Luo: TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs. Accepted by VLDB 2026
+
 **2025**
 
 Jinyu Duan, Haicheng Guo, **Fan Zhang\***, Kai Wang, Zhengping Qian, Zhihong Tian: The k-Trine Cohesive Subgraph and Its Efficient Algorithms. Accepted by KDD 2025 [[paper](/papers/2025_KDD_ktrine.pdf), [code](https://github.com/Nietzsche233/K-trine)]
