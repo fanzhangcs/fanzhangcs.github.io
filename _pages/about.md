@@ -19,17 +19,21 @@ My research interests focus on large-scale graph management and analysis, includ
 *<ins>Tenure-track/Tenured Positions Available</ins>*: Please feel free to contact me if you are interested in joining [our institute](https://wyy.gzhu.edu.cn/xygk/xyjs.htm). Multiple positions with different directions are available and we provide highly competitive offers.
 -->
 
-<!--
-**对于考研学生**: 课题组名额有限（估计1学硕+3专硕），有意进组的同学请尽早给我发邮件(zhangf@gzhu.edu.cn)。组内学术氛围浓厚，毕业去向较好（请见页底）。
--->
+**致考研学生**: 课题组名额有限，有意进组的同学请尽早给我发邮件(zhangf@gzhu.edu.cn)。
 
 Selected Publications
 ======
 **\* indicates I am the corresponding author.**
 
-Weihao Yu, Dian Ouyang, **Fan Zhang**, Xiang Zhao, Shen Su, Xuemin Lin, Zhihong Tian: Hops Can be Constrained: Efficient Distance Queries on Large Time-Dependent Road Networks. Accepted by SIGMOD 2026
+**2026**
+
+Jinyu Duan, Sijin Wang, **Fan Zhang\***,  Xiang Zhao, Wenjie Zhang, Zhihong Tian: Network Dismantling via Reverse Dismantling: Static and Dynamic Algorithms. Accepted by The Web Conference 2026
 
 Dian Ouyang, Jiajie Lin, Wentao Li, **Fan Zhang\***, Jianye Yang, Xi Luo: TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs. Accepted by VLDB 2026
+
+Shuai Ren, **Fan Zhang\***, Bolin Wang, Xiang Zhao, Zhihong Tian: Anomaly Detection of Interaction Behaviors in Streaming Graphs. Accepted by The Web Conference 2026
+
+Weihao Yu, Dian Ouyang, **Fan Zhang**, Xiang Zhao, Shen Su, Xuemin Lin, Zhihong Tian: Hops Can be Constrained: Efficient Distance Queries on Large Time-Dependent Road Networks. Accepted by SIGMOD 2026
 
 **2025**
 
