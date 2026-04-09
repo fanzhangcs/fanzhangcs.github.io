@@ -31,6 +31,8 @@ Jinyu Duan, Sijin Wang, **Fan Zhang\***,  Xiang Zhao, Wenjie Zhang, Zhihong Tian
 
 Dian Ouyang, Jiajie Lin, Wentao Li, **Fan Zhang\***, Jianye Yang, Xi Luo: TRIM: An Efficient Framework for Exact Eccentricity Computation on Large-Scale Graphs. Accepted by VLDB 2026
 
+Shuhao Li, Weidong Yang, Yue Cui, Lipeng Ma, Yixuan Li, Chaoteng Wu, Lu Qin, **Fan Zhang**: ST-LEGO: Large Language Models as Modular Architects for Traffic Prediction. Accepted by The Web Conference 2026
+
 Shuai Ren, **Fan Zhang\***, Bolin Wang, Xiang Zhao, Zhihong Tian: Anomaly Detection of Interaction Behaviors in Streaming Graphs. Accepted by The Web Conference 2026
 
 Weihao Yu, Dian Ouyang, **Fan Zhang**, Xiang Zhao, Shen Su, Xuemin Lin, Zhihong Tian: Hops Can be Constrained: Efficient Distance Queries on Large Time-Dependent Road Networks. Accepted by SIGMOD 2026
